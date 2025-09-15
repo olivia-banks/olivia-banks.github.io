@@ -171,6 +171,8 @@
   },
   "active": "208bf5de1ca5c61c",
   "lastOpenFiles": [
+    "img/og-image.jpg",
+    "img/og-image.jpeg",
     "blog/posts/Recovering images from a forgotten 1980s format (FaceSaver, 1987).md",
     "blog/posts/Working with Berkeley Sprite’s Homegrown CVS Wrapper (SCVS, 1992).md",
     "blog/index.md",
@@ -196,7 +198,6 @@
     "img/clarus-in-cupertino.jpg",
     "img/jhh.png",
     "img/mgbaker.png",
-    "img/favicon.png",
     "blog/posts/Converting and Viewing FaceSaver Images.md",
     "blog/posts/Checking Out from SCVS Repositories.md",
     "blog/posts/CMake and ANTLR4.md",
