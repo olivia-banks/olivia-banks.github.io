@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "e206798d7b0b0512",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a80686c4e2179d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208bf5de1ca5c61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/posts/Building a Tool to Read Firefox Memory Core Snapshots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building a Tool to Read Firefox Memory Core Snapshots"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8c903d19dc15847",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a290b3969eb7c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "466e74152c8bdd20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0a42949cf9ef872",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76ab01debb46877a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cfd3cd4c3942e88",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b248d12613f81a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9673819d4903b6d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "blog/posts/Building a Tool to Read Firefox Memory Core Snapshots.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Building a Tool to Read Firefox Memory Core Snapshots"
+            }
+          },
+          {
+            "id": "98f7226496908d67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/posts/Building a Tool to Read Firefox Memory Core Snapshots.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Building a Tool to Read Firefox Memory Core Snapshots"
+            }
+          },
+          {
+            "id": "bd9f308d87180e4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37bbc5e69f1910cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "blog/posts/Building a Tool to Read Firefox Memory Core Snapshots.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Building a Tool to Read Firefox Memory Core Snapshots"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "208bf5de1ca5c61c",
+  "lastOpenFiles": [
+    "blog/posts/Recovering images from a forgotten 1980s format (FaceSaver, 1987).md",
+    "blog/posts/Working with Berkeley Sprite’s Homegrown CVS Wrapper (SCVS, 1992).md",
+    "blog/index.md",
+    "index.md",
+    "blog/posts/Building a Tool to Read Firefox Memory Core Snapshots.md",
+    "blog/posts/Automating ANTLR4 Integration in CMake for C++ Language Tools.md",
+    "img/core_dump_layout.svg",
+    "style/article.css",
+    "files/pgp.txt",
+    "files",
+    "professional/milo_banks_resume_feb_2025.pdf",
+    "professional/milo_banks_resume_may_2025.pdf",
+    "professional",
+    "style/page.css",
+    "js/page.js",
+    "js/script.js",
+    "js",
+    "img/facesaver-jhh.png",
+    "img/facesaver-mgbaker.png",
+    "img/facesaver-ouster.png",
+    "img/facesaver-shirriff.png",
+    "img/warrant-canary.jpg",
+    "img/clarus-in-cupertino.jpg",
+    "img/jhh.png",
+    "img/mgbaker.png",
+    "img/favicon.png",
+    "blog/posts/Converting and Viewing FaceSaver Images.md",
+    "blog/posts/Checking Out from SCVS Repositories.md",
+    "blog/posts/CMake and ANTLR4.md",
+    "blog/posts/Dumping Firefox Memory Core files to JSON.md",
+    "fbi.jpg.md"
+  ]
+}

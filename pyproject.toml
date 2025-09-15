@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oliviactl.net"
+version = "0.1.0"
+description = "Custom static site generator for my blog"
+authors = [
+    { name = "Olivia Banks", email = "oliviabanks@fastmail.nl" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+    "python-frontmatter==1.1.0",
+    "mistune==3.1.1",
+    "jinja2==3.1.5",
+    "pygments==2.19.1",
+    "tqdm==4.67.1",
+    "smartypants==2.0.2"
+]
+
+[tool.setuptools]
+packages = []
+py-modules = []

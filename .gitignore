@@ -1,0 +1,7 @@
+*.egg-info/
+.DS_Store
+dist/
+.ropeproject/
+__pycache__/
+.vercel
+.venv/
