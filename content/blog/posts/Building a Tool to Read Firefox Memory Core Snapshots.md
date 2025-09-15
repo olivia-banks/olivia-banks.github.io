@@ -106,8 +106,6 @@ except EOFError:
 
 You may notice that we're calling the `MessageToDict` function. This function doesn't have much overhead, and allows us to serialize our result dictionary to a JSON object string so we can dump it to a file. If you were going to do any sort of processing on the snapshot data, you'd probably omit that function and just append the message directly to avoid any sort of overhead.
 
-### YOLO
-
 Regardless, after that we'll go ahead and convert the `result` to a JSON object string, and save it to a file.
 
 ```python
