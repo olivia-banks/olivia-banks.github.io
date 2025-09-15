@@ -1,0 +1,35 @@
+name: Mirror With Sourcehut
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone SourceHut repository
+        run: |
+          git clone --mirror https://git.sr.ht/~oliviabanks/oliviactl.net sourcehut-mirror
+
+      - name: Check if there are new changes
+        id: check_changes
+        run: |
+          cd sourcehut-mirror
+          git remote add github https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git
+          git fetch github --prune
+          if git rev-parse --verify refs/remotes/origin/HEAD >/dev/null 2>&1 && \
+             [ "$(git rev-parse refs/remotes/origin/HEAD)" = "$(git rev-parse refs/remotes/github/HEAD)" ]; then
+            echo "No new changes."
+            echo "push_needed=false" >> $GITHUB_ENV
+          else
+            echo "New changes found."
+            echo "push_needed=true" >> $GITHUB_ENV
+          fi
+
+      - name: Mirror to GitHub
+        if: env.push_needed == 'true'
+        run: |
+          cd sourcehut-mirror
+          git push --mirror github
