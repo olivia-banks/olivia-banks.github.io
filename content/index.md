@@ -47,4 +47,4 @@ I will use GitHub now and again to contribute to various projects, as well as to
 
 ## Also,
 
-If you have something important you want to say to me, or want to verify that you're not dealing with an imposter, you can view my [PGP public key](/files/pgp.txt) online. Also, [the FBI has not been here](/fbi.jpg).
+If you have something important you want to say to me, or want to verify that you're not dealing with an imposter, you can view my [PGP public key](/files/pgp.txt) online. Also, [the FBI has not been here](/files/warrant-canary.jpg).
