@@ -29,6 +29,7 @@ I will use GitHub now and again to contribute to various projects, as well as to
 - [**Zig**](https://github.com/ziglang/zig) – Contributed to the Zig programming language.
 
 ### Build Systems & Package Management
+- [**n2**](https://github.com/evmar/n2) - Added support for scoping, fixed variable expansion issue.
 - [**XMake Docs**](https://github.com/xmake-io/xmake-docs) – Documentation for the XMake build system.
 - [**Meson WrapDB**](https://github.com/mesonbuild/wrapdb) – Package management for the Meson build system.
 
