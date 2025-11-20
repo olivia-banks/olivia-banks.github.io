@@ -35,7 +35,7 @@ I will use GitHub now and again to contribute to various projects, as well as to
 ### Epidemiological Modeling (EpiWorld)
 - [**Epiworld**](https://github.com/UofUEpiBio/epiworld) – C++ library for agent-based epidemic simulations. (**core team**)
 - [**EpiworldPy**](https://github.com/UofUEpiBio/epiworldpy) – Python bindings for Epiworld. (**lead maintainer**)
-- [**EpiworldR**](https://github.com/UofUEpiBio/epiworldr) – R bindings for Epiworld.
+- [**EpiworldR**](https://github.com/UofUEpiBio/epiworldr) – R bindings for Epiworld. (**core team**)
 
 ### System & Low-Level Development
 - [**Darling**](https://github.com/darlinghq/darling) – macOS compatibility layer for Linux.
@@ -46,7 +46,7 @@ I will use GitHub now and again to contribute to various projects, as well as to
 - [**Zig**](https://github.com/ziglang/zig) – Contributed to the Zig programming language.
 
 ### Build Systems & Package Management
-- [**n2**](https://github.com/evmar/n2) - Added support for scoping, fixed variable expansion issue.
+- [**n2**](https://github.com/evmar/n2) - An alternative Ninja implementation.
 - [**XMake Docs**](https://github.com/xmake-io/xmake-docs) – Documentation for the XMake build system.
 - [**Meson WrapDB**](https://github.com/mesonbuild/wrapdb) – Package management for the Meson build system.
 
