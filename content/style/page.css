@@ -49,6 +49,8 @@ body {
 }
 
 p,
+li,
+span,
 #markdown-button {
     font-family: Georgia, "Times New Roman", Times, serif;
 }
