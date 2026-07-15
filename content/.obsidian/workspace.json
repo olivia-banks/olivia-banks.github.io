@@ -11,13 +11,30 @@
             "id": "440f04f5dcbe6a2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "blog/posts/Exploring a Safer Language that Works with Python at Scale.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Exploring a Safer Language that Works with Python at Scale"
+            }
+          },
+          {
+            "id": "286745c70bf0f178",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +182,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "466e74152c8bdd20",
+  "active": "286745c70bf0f178",
   "lastOpenFiles": [
-    "img/core_dump_layout.svg",
+    "full.pdf",
+    "CS2420 Assignment 4 2.pdf",
+    "2. Pair Programming Experience.pdf",
+    "3. Method Signatures.pdf",
+    "4.  areAnagrams Runtime.pdf",
+    "5. getLargestAnagramGroup Runtime.pdf",
+    "6. getLargestAnagramGroup with Arrays.sort Runtime.pdf",
+    "CS2420 Assignment 4.pdf",
     "blog/posts/Building a Tool to Read Firefox Memory Core Snapshots.md",
+    "blog/posts/Exploring a Safer Language that Works with Python at Scale.md",
+    "img/core_dump_layout.svg",
     "img/og-image.jpg",
     "img/og-image.jpeg",
     "blog/posts/Recovering images from a forgotten 1980s format (FaceSaver, 1987).md",
@@ -179,13 +205,6 @@
     "style/article.css",
     "files/pgp.txt",
     "files",
-    "professional/milo_banks_resume_feb_2025.pdf",
-    "professional/milo_banks_resume_may_2025.pdf",
-    "professional",
-    "style/page.css",
-    "js/page.js",
-    "js/script.js",
-    "js",
     "img/facesaver-jhh.png",
     "img/facesaver-mgbaker.png",
     "img/facesaver-ouster.png",
